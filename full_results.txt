@@ -1,0 +1,883 @@
+{'lemma': 'njen', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Jedva okrećem njen broj, prsti su
+	 U tom trenutku mi je zasmetao njen
+	 Na njen rad uticale su kombinacija italijanske
+	 Predjoh na njen stomak i grudi,
+	 Porazi povređuju njen ponos, ali je
+	 Tema emisije je snaga obrazovanja i njen
+	 Medutim, pre samo mesec dana njen
+	 Za uzvrat i ja sam potpisala njen
+	 Ugledavši njen kljun kako se pomalja,
+	 Pogled mi je pao na njen dekolte
+	 Možemo se igrati psihologa i njen poziv
+	 Niko ne znađaše njen jezik, ali
+	 Osećam njen miris i toplinu.
+	 Procenjuje se da je za njen završetak
+	 Istini za volju, na njen saldo
+	 Hteo je, u njen spomen,
+	 Akumulacija azota u nadzemnom delu i njen
+	 Srbija, odnosno jedan njen deo,
+	 Odatle su u Brauron preneli njen kip
+	 U našoj školi svi vole njen predmet
+{'lemma': 'njen', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Predlažemo ovim amandmanom njeno spuštanje na pola
+	 Njeno lice nam se smesilo sa bilborda
+	 To što je nekima to njeno"
+	 Nasilje otuda nije samo njeno krajnje već
+	 Povod za njeno pisanje je, kako
+	 Međutim, to njeno postojanje u duhu
+	 Njeno lice i telo hiljadu puta su
+	 Njeno pronalaženje vodi do primordijalnog početka,
+	 Možda ta kancelarija dođe i njeno sedište
+	 Put za njeno obaranje vodio je preko
+	 Inicijativu za njeno razrešenje podneo je pored
+	 Mi pratimo njeno stanje s medicinskog stanovišta
+	 Iako je Lisabonskim sporazumom predviđeno njeno skraćivanje
+	 Klikom na njeno ime naći ćete se
+	 Bolje kleknite i molite se za njeno
+	 Samo da podsetim gospođu ministra na njeno
+	 Prislonio je svoju toplu šaku na njeno
+	 Vanredna skupština i njeno sazivanje od strane
+	 Svu je obuzme ono njeno, zatreperi
+	 Srpska napredna stranka, njeno rukovodstvo i
+{'lemma': 'njen', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Pocinjete njenu zivotnu pricu pa prelazite na
+	 Još jednom u nizu je demonstrirala njenu
+	 U Tauridi su u njenu čast prinosili
+	 Volim njenu igru, igra agresivno,
+	 Škola je videla njenu MySpace stranicu i
+	 Lekari su poslali njenu medicinsku dokumentaciju u
+	 FAS je Zastavinu fabriku automobila, njenu
+	 Posmatrao je njenu belu kožu koja mu
+	 Visina neba i more koje prihvata njenu
+	 Samo sam jedanput gledao njenu utakmicu kad
+	 Antibiogrami pokazuju njenu veliku osetljivost na antibiotike
+	 U stručnom smislu njenu kičmu čine istraživački
+	 Lako je ismejati njenu nesanicu i brigu
+	 Da njen uticaj na njega, njegovu
+	 Ipak, za njenu trenutnu popularnost(
+	 Uz njenu pomoć, Tezej će okupiti
+	 Nakon odličnih reakcija publike na njenu poslednju
+	 Gusto obrastao šumarak se nadvio nad njenu
+	 Na njenu zapovest Borej se obavi oko
+	 Trudim se da nikad ne povrijedim njenu
+{'lemma': 'njen', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Plavokosa pevačica zadovoljna je kako je njen
+	 Njen je cilj da se kroz pojam
+	 Pred njen 10- ti rođendan njena
+	 Činjenica da se njegov centar nalazio u
+	 Njen unutrašnji život se iskazuje različitim vidovima
+	 Njen novi album Biophillia i aplikacije koje
+	 Njen pogled pun topline i nežne nadmoci
+	 Te večeri Novobečejskoj publici predstavljen je njen
+	 Njen petogodišnji sin Rajder uvek traži"
+	 Njen uspeh u sportu je evidentan i
+	 Njen cilj u ovom članku je da
+	 Njen advokat traži šestogodišnju kaznu.
+	 Njen stav je i da ova novina
+	 Pariz je označio njen ulazak u svet
+	 Njen i moj.
+	 Džeradina Vargas i njen muž otkrili su
+	 Naš odlazak je tu poistovećen sa činjenjem
+	 Njen autor, Dušan Veličković, dugogodišnji
+	 Ipak, njen stari sjaj danas postoji
+	 Njen prvi suprug bio je takođe poznati
+{'lemma': 'njen', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Prioritetni cilj zajednice bilo je njeno samoodržanje
+	 Njeno bogato znanje, umeće i darovitost
+	 Njeno ime je Arria.
+	 Njeno ime je Jasmina Kovačev, a
+	 Ovo je njeno prvo dete, a
+	 Razvojna banka i njeno osnivanje je bilo
+	 Njeno trošenje raste sa povećanjem aktivnosti pčela
+	 Njeno dno je 44 m iznad nivoa
+	 Njeno iskeženo lice, sa filočetnicima,
+	 Svo ovo moje čangrizanje ne umanjuje činjenicu
+	 Njeno prpovedanje je sočno, bez tabua
+	 Njeno bekstvo je izazvalo rat između Grka
+	 Njeno stanište je raznovrsno, može se
+	 Njeno najjače oružje na terenu je dvoručni
+	 Kad se njeno zdravstveno stanje pogoršalo,
+	 Vec sam hteo da pustim njeno levo
+	 Čuvajte energiju jer je njeno opadanje glavni
+	 Obzirom da je nase cenjeno zdravstvo(
+	 A tu noć njeno dupe je bilo
+	 Tako nabrekao, upro je o njeno
+{'lemma': 'njen', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Ili pak njena uloga treba u većoj
+	 Tako je njena kolekcija dizajnirana za Gaia
+	 To i jeste njena vrednost.
+	 Važna odrednica Islamske zajednice Srbije je njena
+	 Čak i ako se izgubi njena,
+	 Ova zemlja, njena ekonomija i sve
+	 Pred njen 10- ti rođendan njena
+	 Petrova ume da poludi, njena pobeda
+	 Njena predstavka biće upućena Gradskoj upravi za
+	 Kao i uvek dolazak ciganke i njena
+	 Ona i njena partija nisu dobili dovoljno
+	 Dora je često govorila kako je njena
+	 I njena očišćena i posvećena duša udostoji
+	 Njena porodica je zapravo od tog trenutka
+	 Njena populacija u ovoj zapuštenoj semberskoj močvari
+	 Udela u tome je imala njena udaljenost
+	 No njena je volja za životom bila
+	 Njena poezija dobija dimenzije izrazite nepokornosti i
+	 Njena kletva i, uopšte, cela
+	 Njena sadašnja slika, koja je putovala
+{'lemma': 'moj', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Na moj predlog da uzme vitamin C
+	 Svi moji dragi su jedva cekali moj
+	 Od tada smo prijatelji, podržava moj
+	 Dobro bi bilo da prihvatite ovaj moj
+	 Poslanici su akcenat stavili na moj rad
+	 Članovi sajta karike.com dolaze na moj blog
+	 Iako će ova izjava ličiti na moj
+	 U moj računar sam ubacio njegovu 8500
+	 Za Moj posao
+	 Ako vam se dopadaju, posećujte moj
+	 Dakle, potpuno ste pogodili moj ukus
+	 ja takvom kazem ili ces poslusati moj
+	 Vrv ce ostaviti f f na Moj
+	 Htela sam da udjem na moj e-pravni
+	 Za moj pojam, upravo u finansijama
+	 Puna je fascikla tvojih kritika na moj
+	 Za cas je iz pantalona izvadila moj
+	 Ko će sirotoj banci isplatiti moj kredit
+	 - To spada u moj posao.
+	 Osjetio sam njezni pritisak na moj anus
+{'lemma': 'moj', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Sve do danas ne prestaju moje zanimanje
+	 Prva sećanja su vezana za moje spavanje
+	 Niko nije uvredio moje misljenje, jer
+	 - Konstantno su znali za moje kretanje
+	 Još osećam tvoje stajanje na mom ramenu
+	 I u moje ime...: S
+	 Niko ne razume moje stanje.
+	 U moje odeljenje, školske 2009/
+	 U moje vreme nosilac glavnih klasičnih uloga
+	 Mojim dolaskom na njeno čelo, danonoćnim
+	 Izmlazam se pumpicom i bebi dajem moje
+	 Ako je ne volite moje saučešće'
+	 Moj sin Danilo je poneo njegovo ime
+	 Odgovor NKPR na moje pismo u vezi
+	 I pokazao kojim će putem ići moje
+	 No ako ti ne poslušaš moje naređenje
+	 Za moje imenovanje smatram da je od
+	 Čula su opijala moje telo unoseći u
+	 Suza, zabrinuta za moje biće,
+	 Ovo objašnjenje je ubedi da zauzme moje
+{'lemma': 'moj', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 A sada za moju informaciju, molim
+	 - Na moju dušu, ljudi,
+	 Mene i moju porodicu više brine koliko
+	 " Roditelji mogu da dođu u moju
+	 U moj računar sam ubacio njegovu 8500
+	 Jedan kofer je dobio moju cigansku,
+	 Volim moju ljubav.
+	 - Na moju fudbalsku karijeru presudno je
+	 Svi ste dobrodošli u moju domovinu,
+	 Radikali, na moju žalost, neće
+	 Na moju veliku zalost, tako je
+	 Moju babu su zatvarali, kažnjavali,
+	 Na moju srecu pristali su na zamenu
+	 LIR: Sačekaću moju kćerku.
+	 Neizmerno je uticao na moju karijeru,
+	 Iskonski strah koji tera moju utrobu da
+	 Saopštio sam im moju odluku da Turskoj
+	 Uništili su moju vjerodostojnost.
+	 Nasmijali su se na moju dosjetku,
+	 Bogu se molim da uslusa moju molbu
+{'lemma': 'moj', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Moj majstor mi je rekao da će
+	 Pre izvesnog vremena, moj prijatelj kupovao
+	 Mada je moj najveći transfer novca u
+	 To je bio moj posao- objašnjava
+	 Ali mislim da je moj najveći talenat
+	 E, moj Marko, balkan je
+	 Ne može biti da se moj muž
+	 Moj jedini komentar za sve vas krstase
+	 I taj moj prijatelj stoji prije nekoliko
+	 Još jednom, moj respekt i divljenje
+	 Njen i moj.
+	 MOj decko i ja otisli smo da
+	 Moj račun je oko 1300 do 1500
+	 Moj komentar se ne odnosi na suštinu
+	 To je moj zaključak.
+	 Kao ljubitelj tattoo umetnosti, moj klijent
+	 Partizan je moj klub, a i
+	 Doslo je vreme da sudbina okrene moj
+	 Moj pokojni otac, koji da je
+	 Naime, moj klijent je 19. Avgusta
+{'lemma': 'moj', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 " Iako je moje telo drugačije sada
+	 moje je misljenje da su hf i
+	 Gledano sa ustaljenog društvenog aspekta moje nezavršavanje
+	 Moje pitanje, nakon dobijenog odgovora ću
+	 da li ovo moje rešenje smatrate adekvatnim
+	 Gde je moje mesto u zivotu,
+	 Moje lično mišljenje, nema veze sa
+	 Međutim, moje mišljenje je da suštinski
+	 Svo ovo moje čangrizanje ne umanjuje činjenicu
+	 Polahko je spustila ruku na moje međunožje
+	 Pa kad vidite moje ime iznad komentara
+	 - Eto vidiš, dete moje,
+	 Moj jezik i moje pismo
+	 Jednostavno moje vreme na ovom svetu je
+	 Moje pitanje je bilo šta je mišićevac
+	 Moje misljenje je da su ljudi zatvoreni
+	 Samo jedno, a to je moje
+	 A onda, onda je moje srce
+	 Moje znanje portugalskog jezika nije loše,
+	 U moje vreme nije bilo balkona,
+{'lemma': 'moj', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Nema tu moja cena je ovolika a
+	 Moja porodica i ja beskrajno smo mu
+	 Ako je Jugoslavija i socijalizam bila moja
+	 Filozofija moja je jasna- sve što
+	 Naime moja prababa je iz Jagodica-
+	 Za one koje ova moja pisanija smaraju
+	 Moja putovanja Ana Sofrenović Putovanja su za
+	 Kratka bi radost moja, i premetnu
+	 Moja velika želja je da budemo pravi
+	 Moja očekivanja su da ove godine ostvarimo
+	 Ovo su neka moja iskustva, a
+	 U januaru mesecu 1945. godine moja supruga
+	 Za navedena moja književna dela dobio sam
+	 Otud moja dugogodišna ali na kraju uspešna
+	 Moja preporuka, majice su još uvek
+	 Bio je sumrak, moja tadašnja devojka
+	 Pa tako i moja definicija i gledista
+	 Povod za ovaj tekst je moja inicijativa
+	 Primer tome je moja lična pretraga za
+	 Moja prva knjiga, roman Teče krvava
+{'lemma': 'tvoj', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 1. ja sam elektron tvoj, nemaj
+	 Zato sam i naveo tvoj blog primer
+	 Volim tvoj osmeh kada se protezes volim
+	 Kritikuješ masu da je pogrešno razumela tvoj
+	 A ja ću tresnuti pravo u tvoj
+	 Očekujemo tvoj mejl na praksa@pstech.rs ili posao@pstech.rs
+	 Koliko osoba je prošlo kroz tvoj život
+	 XAVER nasao sam tvoj post, ali
+	 Cenimo Tvoj trud i želju da stranku
+	 Tvoj ukupni stav u vezi sa procesom
+	 Prekinuo sam ovde tvoj citat jer mislim
+	 A za tvoj nik sigurno je neki
+	 Puna je fascikla tvojih kritika na moj
+	 Pokloni tvoj osmeh tamo nekoj drugoj,
+	 Staviti ti cvet, na tvoj perjani
+	 Linga, nisam odmah video tvoj komentar
+	 Znam tvoj stav o našem odnosu,
+	 Jel' bilo dovoljno plasticno za tvoj
+	 Mudriji su već komentarisali tvoj post,
+	 Potpuno je razumljiv tvoj prvi osećaj kada
+{'lemma': 'tvoj', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Ja sam nekada delila tvoje misljenje.
+	 Tokom puberteta tvoje telo i tvoj unutrašnji
+	 Veoma rado ću saslušati tvoje iskustvo sa
+	 Još osećam tvoje stajanje na mom ramenu
+	 Volim tvoje prisustvo u ovom svetu tajni
+	 Niko ne zna tvoje ime.
+	 Vrati me u tvoje naručje.
+	 Tada uzalud dozivam tvoje ime, jer
+	 Pravilo 2: Svet ne interesuje tvoje
+	 Da li tvoje oko više sija?
+	 Naravno sve dok ne prokocka tvoje poverenje
+	 " dodje mi da vrisnem tvoje ime
+	 Acke postujem tvoje znanje i tvoj rad
+	 Mislim da je odgovor na tvoje pitanje
+	 Primih tvoje pismo, a i kartu
+	 @rale; na tvoje pitanje sta treba
+	 Dream, gledam tvoje ime na dnu
+	 Srce sve jace udara, zove tvoje
+	 Sem toga, neka zna tvoje blaženstvo
+	 Ponosno bi tvoje ORO.
+{'lemma': 'tvoj', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Bez obzira na tvoju želju da mu
+	 Dozvolit ću si slobodu da ocenim tvoju
+	 Znači ne ljutiš se na tvoju mamu
+	 Razumem tu tvoju vezanost.
+	 Razumijem tvoju brigu za hrvatsku obalu,
+	 Napravite uticaj na vašu karijeru, tvoj
+	 Veru, tvoju ljubav, žrtvu i
+	 Molim dakle tvoju svetinju, pomoli se
+	 Na sledećoj kafici očekujem tvoju čarobnu priču
+	 Blaženi Savatije reče Natanailu: Molim tvoju
+	 Prihvatam tvoju plemenitu ideju" Darujemo reč
+	 Vidim tvoju suprugu, ženu koja te
+	 Ja ne sumnjam u tvoju iskrenost,
+	 Na žalost( i tvoju i moju
+	 Na tvoju zalost posto pises na blogu
+	 Razumem tvoju brigu oko zaposlenja, ali
+	 Ja i da znam tvoju sifru ne
+	 Za tu tvoju konfu je dosta i
+	 Ponela sam onu tvoju staru pidžamicu da
+	 I da, slušam tvoju omiljenu pjesmu
+{'lemma': 'tvoj', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 U okviru kampanje Tvoja planeta tvoj problem
+	 Tvoj Semp 9550 trose mnoogo manje struje
+	 Tvoj rodak Pol se oženio.. po
+	 Kada tvoj šef nešto radi duže,
+	 To je tvoj izbor a ne moj
+	 Ides tamo jer je to tvoj dom
+	 ali tvoj otac nema posla, stavi
+	 " Da je tvoj ćale tad bio
+	 VIDA: Tvoj ljubljeni Laza Kostić je
+	 Neka tvoj brat ponovo kaže da sam
+	 Kada tvoj šef nešto ne učini,
+	 To je Marko, tvoj snažni junak
+	 @sanjarenja56, tvoj komentar me ostavio bez
+	 Da, TVOJ radio neka stotka,
+	 Međutim, vratimo se na tvoj performans
+	 Tvoj problem je veoma sladak, ali
+	 poznaću ja tvoj dragi lik,
+	 Tvoj Veso.
+	 To je tvoj usud: delićeš ono
+	 Postoji stvar koju tvoj ego govori tebi
+{'lemma': 'tvoj', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Ne mislim na tvoje oci, tvoje
+	 Tvoje malo meni znači mnogo;)
+	 Koje je tvoje opšte mišljenje o kvalitetu
+	 Tvoje vadjenje da si se odlicno osecao
+	 tvoje komentarisanje je savrseno bez i jedne
+	 Tvoje đubre ili treba da sasvim izbacimo
+	 Kraj priče o tome, a tvoje
+	 posle ovih tvojih razmisljanja ucvrstilo se moje
+	 Pa ni ovo tvoje i moje prepucavanje
+	 To je tvoj um, tvoje telo
+	 Bitno je da Pali me tvoje Tijelo
+	 Koliko je tvoje belo naspram Isidorinog,
+	 BO: Kome je namenjeno tvoje predavanje
+	 To je količina rada koje tvoje srce
+	 Tvoje ubeđenje u genetski determinizam- da
+	 Tvoje istrazivacko novinarstvo je slobodno, profesionalno
+	 Moje ovo, moje ono, tvoje
+	 O Srpče moje zlatno, vrednost tvoja
+	 Tvoje poređenje roditeljskih parova je i dalje
+	 Zbog toga mislim da tvoje snebivanje nad
+{'lemma': 'tvoj', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	 - Ovo je tvoja sestra- reče
+	 Jedini nacin da ti i tvoja rodjena
+	 Verovatno nemaju pojma kada zapravo nastaju tvoja
+	 Tvoja majka samo tebe, moja majka
+	 Ja sam tvoja malena i zauvek cu
+	 Tvoja svrha je u onome u čemu
+	 Da zaključimo na tvoja glupa pitanja,
+	 Tvoja majka iđaše jednako u seljačkom odelu
+	 Tvoja poruka, glas I pojava mi
+	 Tvoja mala kućica, skoro zidana,
+	 Tako dakle, neka vlastita svetlost tvoja
+	 Tvoja velika Lavra- Studenica.
+	 Tvoja uska nedra i još tanji pas
+	 GONERILA: Rekoh, tvoja pratnja ti
+	 Tvoja sestra Julia, znaš ona koja
+	 Ta sva sila tvoja je ništavna.
+	 Tvoja fudbalska Vlada je totalno podbacila.
+	 - To je tvoja stvar- odgovoriše
+	 Tvoja uloga iz snova je...
+	 Ako je tvoja imovina samo lepota,
+{'lemma': 'njegov', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Jednom je dat i njegov životopis i
+	 Čak i oni koji ovlaš poznaju njegov
+	 Svesrdno sam prihvatio njegov poziv, zato
+	 Neće biti osuđen ni koliko podrazumeva njegov
+	 Nikako ne možemo da zaboravimo njegov odnos
+	 Čim bi začulo njegov glas, zmijče
+	 U moj računar sam ubacio njegovu 8500
+	 Na njegov licu mišić nikad nije zadrhtao
+	 Da je Crkva znala za njegov stav
+	 Ili je možda bio u pitanju njegov
+bad words found! Sanjam kurac, osećam njegov ukus u
+	 Koliko je Kosovo i njegov status relevantno
+	 Ako postoji neko opravdanje za njegov rad
+	 Ukucajte ga u Gugl i pogledajte njegov
+	 Da nismo odobrili njegov zahtev, on
+	 Pored toga, njegov značaj kao aktiviste
+	 Svetitelj blagoslovi njegov podvig, upozorivši ga
+	 A taj njegov predlog, datira iz
+	 Imajući razumevanja za njegov vojni staž,
+	 Miloš mi je opisao ukratko njegov posao
+{'lemma': 'njegov', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Ne treba svojim postupcima da unižavamo njegovo
+	 Treba sveto telo njegovo vratiti na presto
+	 Taj glas prođe kroz celo telo njegovo
+	 Gašenje ministarstva specijalizovanog za njegovo buđenje sigurno
+	 Jedan od glavnih razloga za njegovo pokretanje
+	 Za njegovo vreme dođoše Turci i zauzeše
+	 Stručnjaci će uskoro doputovati u njegovo selu
+	 No neprijatelj duše ljudske, mrzeći njegovo
+	 Koriste se za njegovo dekorisanje ili ripliranje
+	 Sve u svemu, njegovo probijanje na
+	 Mnoge su anegdote vezane za njegovo ime
+	 Očekujemo da njegovo znanje i sposobnost,
+	 Zatim na njegovo mesto seda Vladimir Đakov
+	 Ko pročita njegovo novije djelo Quo vadis
+	 Nekako sam osećao njegovo kretanje, jer
+	 Izgledaće kao da pristajemo na njegovo izgnanstvo
+	 Za njegovo priznanje nije bilo mnogo pitanja
+	 Gledala sam njegovo gostovanje na telefiziji FOX
+	 Taj osećaj i dalje prožima celo njegovo
+	 U njegovo vreme su emitovane i višeminutne
+{'lemma': 'njegov', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Uzmite njegovu ruku i usmerite je ka
+	 Njegovu izjavu treba čitati kao poruku da
+	 U filmu, njegovu majku igra Anđelina
+	 Ja njegovu prinadležim liku, onde mi
+	 Upoznajte i ovogodišnji logo BlogOpena i njegovu
+	 Kuća koja se vodila na njegovu pokojnu
+	 Međutim niko nije znao njegovu božansku blagodat
+	 U moj računar sam ubacio njegovu 8500
+	 Prisajedinite i njegovu dušu dušama svojim,
+	 Sigurno ne na njegovu.
+	 Takve okolnosti podsticale su njegovu moćnu imaginaciju
+	 Na njegovu izjavu, Jocić, koji
+	 Za 20 godina efektivnog rada kroz njegovu
+	 Njegovu nadgrobnu ploču slomio je mitr.
+	 To je dokazivalo Njegovu neiskazanu brižnost i
+	 Dodika i njegovu pratnju- pozdravni govor
+	 Poštujem i cenim gospodina Đilasa i njegovu
+	 Njegovu Facebook stranicu možete pogledati ovde.
+	 - Kada sam uzela njegovu ruku u
+	 Posebno su pojasnili upotrebu Brstivara i njegovu
+{'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 I on i njegov sagovornik pomoću snova
+	 Njegov izbor za premijera, uzimajući u
+	 Njegov stariji brat ga je naučio da
+	 Premijer Srbije Ivica Dačić i njegov prištinski
+	 Svi su znali da je njegov slučaj
+	 Slanjem rukopisa autor prihvata da njegov rad
+	 Njegov organizator, Plesni klub RMP Kolubara
+	 Tako njegov lični život postaje život u
+	 Njegov ekran osetljiv na dodir je ergonomski
+	 I on i svi koji znaju njegov
+	 Njegov glavni konkurent u Nemačkoj RWE proverava
+	 Njegov komšija je napisao pismo koje glasi
+	 Njegov odlazak je veliki i teško nadoknadiv
+	 Njegov je zadatak razobličavanje srpskog moralnog društva
+	 Njegov posao je izmedju ostalog kontrola inflacije.Rezultati
+	 Sting, njegov bend i" Kamerata
+	 Država bi, dodaje njegov kolega dr
+	 Njegov izum bi trebalo da prikuplja kišu
+	 Mali princ Britanije je kao i njegov
+	 Pavićević je dodao da će njegov prvi
+{'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 To je njegovo Ustavom zagarantovano pravo.
+	 Ipak, njegovo izručenje će biti uslov
+	 Njegovo Preosveštenstvo Mitropolit Konstantin se trenutno nalazi
+	 Bez njegovo znanje nema godižbina trošenje.
+	 Roditelj može da smatra da je njegovo
+	 I zato njegovo ponašanje smatram nekorektnim.
+	 Njegovo preduzeće najveći deo prometa ostvaruje preko
+	 Jos kada bi se na izborima njegovo
+	 Na pitanje kakvo je bilo njegovo reagovanje
+	 Brižno odabiranje kamena i njegovo samo delimično
+	 Njegovo Preosveštenstvo Episkop zvorničko-tuzlanski G.
+	 Njegovo delovanje na državnim funkcijama je,
+	 Njegovo Preosveštenstvo Episkop hvostanski G.
+	 Njegovo ime nalazi se na spisku među
+	 Uz njegovo zdušno zalaganje, te nekoliko
+	 Njegovo Preosveštenstvo Episkop hvostanski Atanasije u nadahnutoj
+	 Irineja, Njegovo Preosveštenstvo Episkop šabački g.
+	 Pri pogledu na publiku njegovo divljenje je
+	 Njegovo igrano ostvarenje" Gegen die Wand
+	 Nema sumnje da njegovo sitno seme i
+{'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Kada njegova izabranica ostane u drugom stanju
+	 Ali, ne znači da će njegova
+	 Softver i njegova slobodna dostupnost i prilagodljivost
+	 U svakoj prostoriji stoji njegova slika uramljena
+	 Njegova želja je Juventus jer pravi sjajan
+	 Upravo zato zadnja njegova rečenica i nije
+	 Njegova titula je glasila: Joanikije,
+	 Problem će verovatno predstavljati i njegova nedeljna
+	 Ali, da li će njegova pobeda
+	 Ona je bila Barbara, njegova devojka
+	 Posao je njegova preokupacija.
+	 To što je njegova afrička avantura završila
+	 Događaju je prisustvovao i njegova ekselencija,
+	 Njegova Svetost, Patrijarh srpski je istakao
+	 Holder je precizirao da je njegova zemlja
+	 S druge strane, njegova zloupotreba,
+	 Najneobičnije je što to je svaka njegova
+	 I ovde se vidi njegova briga o
+	 A pošto sav život naroda: njegova
+	 Tada je njegova plata vredela 407 evra
+{'lemma': 'naš', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Jedna od najvažnijih prednosti ukoliko koristite naš
+	 Konstruktivno se za naš materijal pokazalo razgraničiti
+	 " Mi ćemo izneti naš stav kada
+	 Za nas slogan" TAMO GDE PRESTAJE
+	 Naš komentar o drugom je komentar o
+	 Helena se našalila na njihov račun:
+	 Skupštinski Odbor za finansije je na naš
+	 Izbor je pao na naš najveći 300
+	 Ukoliko budete pratili naš sajt i izabrali
+	 Nažalost niko nije ozbiljno shvatio naš apel
+	 Problem je što retko dolazi u naš
+	 Iz nedelje u nedelju naš kviz nepotrebnog
+	 Ali čoveku koji je naš narod nazvao
+	 Priznajem, ne pratim nas fudbal od
+	 Primer: mi smo pozvani u naš
+	 Sve podatke koje budete poslali naš tim
+	 Da li je evropski put zaista naš
+	 " Na taj način bi naš grad
+	 Mi smo naš deo posla obavili,
+	 Valja podsetiti da su gusle naš prepoznatljiv
+{'lemma': 'naš', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Naša zemlja i njeno rukovodstvo ne poriču
+	 Ovaj današnji može da izgleda kao njeno
+	 Posle te za nase vreme granice Univerzuma
+	 Nemam primedbi ni na njegovo ponašanje.
+	 Nema opravdanja za njegovo ponašanje.
+	 Možda bih razumela njegovo ponašanje kada bih
+	 Ta strategija i njeno ostvarenje prethodi našoj
+	 Ponašajući se prijateljski kako bi zadobio njeno
+	 Ispričao sam mu moje viđenje naših života
+	 Partner ima nove prigovore na Vaše ponašanje
+	 Evropska unija se tako u naše vreme
+	 Njeno znanje o našim sklonostima u ishrani
+	 Korupcija je kao ogromna hobotnica zahvatila naše
+	 Možete pronaći hiljade opravdanja za njegovo ponašanje
+	 Neko od saradnika pažljivo analizira Vaše ponašanje
+	 Kako je Tesla zamišljao naše vreme,
+	 - Komentari mnogih ljudi na njeno ponašanje
+	 Ako ste ignorisali njegovo ponašanje i pokušali
+	 Nemačke štediše i njihovo ponašanje ispitani su
+	 Da biljke mogu popraviti naše raspoloženje,
+{'lemma': 'naš', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Potežemo svi na našu dušu da je
+	 Tačno čovek vidi.Daj bože i uz našu
+	 Prema informacijama koje su stigle u našu
+	 Mi ćemo sve uraditi da našu obavezu
+	 Teofanov je u našu poeziju uneo osoben
+	 Iako, šut nije služio našu reprezentaciju
+	 Na našu nesreću, bajke imaju srećan
+	 Vrh poplavnog talasa Dunava u našu zemlju
+	 Želim da ovu našu posjetu shvatite kao
+	 Moramo da se oslonimo na našu braću
+	 Dolaze grdne delegacije, uključujući i našu
+	 Dela ovih pesnika približila su našu književnost
+	 To važi za našu populaciju jer pišemo
+	 Našu omladinu će u zatvore samo zato
+	 Monah Filimon je posebno zadržao našu pažnju
+	 Ove knjige su danas za našu kulturu
+	 Ipak, našu konstataciju da to znači
+	 Tadić nudi sigurnu budućnost za našu decu
+	 Mi po Vojvodini ucimo nasu decu isto
+	 Ovi današnji kreiraju našu budućnost, šta
+{'lemma': 'naš', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Već pred kraj igračke karijere jedan naš
+	 Kada gledamo u neki objekat, naš
+	 Naš zadatak je da to promenimo i
+	 Naš izbor bio je spinalna anestezija.
+	 I, kako reče naš nemački prijatelj
+	 Ovaj naš predlog je spoj višegodišnjih pokušaja
+	 Naš stav je da se problemi moraju
+	 Naš cilj je da projekat Internet u
+	 Naš cilj je da mladi ljudi ostaju
+	 To ime je naš brend i ključ
+	 Naš fakultet je 29. aprila 2013. godine
+	 Naš zadatak jeste da i oni koji
+	 Kako Putin vidi naš ekonomski razvoj do
+	 - Naš cilj je proizvodnja i promocija
+	 Pa zar si mislio da će naš
+	 Naš sagovornik kaže da će poseban akcenat
+	 Ipak, naš sagovornik misli da nije
+	 Ove godine je naš program, čiji
+	 Pre sto godina je nas srpski mucenik
+	 Drugi naš predstavnik u ovoj disciplini Stevan
+{'lemma': 'naš', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Naše prisustvo bi omogućilo ostvarivanje čvršće saradnje
+	 Koristi li se naše ratno iskustvo na
+	 Naše iskustvo pokazuje da je veoma korisno
+	 I zato njegovo ponašanje smatram nekorektnim.
+	 " Gledaće na šta je ličilo naše
+	 Samo dobri rezultati opravdaće naše angažovanje da
+	 Naše je pitanje: Zašto se i
+	 Za žive u tom vremenu naše stvarno
+	 Sve u svemu, naše dugo putovanje
+	 Naše izmirenje neka bude za ugled i
+	 Na dobijenoj karti naše selo se vodi
+	 Naše izmirenje je tek počelo.
+	 Cilj nam je da naše Društvo svojim
+	 Naše zdravstvo je takvo kakvo je.
+	 Kada naše vrijeme istekne, na redu
+	 Selite se odavde, ovo je naše
+	 Naše strateško rešenje podržava upravljanje u obe
+	 Naše uobičajeno je između dvanaest i petnaest
+	 Ovo podržava naše mišljenje da bi rešavanje
+	 - Naše pčelarstvo je od samo početka
+{'lemma': 'naš', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Bez vas verovatno bi naša stranka morala
+	 Zahvaljujući i RTB Bor naša opština je
+	 A nasa savest je ostela negde jos
+	 Naša percepcija je da ovo može narasti
+	 Pa naša država koja školuje deset puta
+	 Naša uža specijalnost je modelovanje i šivenje
+	 Naša škola je od 15. septembra 2003.
+	 Naša je ideja da se na zemljištu
+	 Naša inspiracija leži u buđenju naše savjesti
+	 Do pete uzastopne pobede nad Amerikankom naša
+	 JUCA: Znate kako naša poslovica kaže
+	 Po proizvodnji ribizle naša zemlja je medu
+	 Naša članica, Vesna Sarasvati, joga
+	 U godini kada je naša država započela
+	 Jadna i oskudna su i naša sačuvana
+	 Nije naša obaveza da ubacimo kartice.
+	 Međutim, kada je naša ekipa oko
+	 - Naša liga je vrlo ujednačena,
+	 To je naša jedina šansa.
+	 - Decentralizacija i promena lokalne vlasti naša
+{'lemma': 'vaš', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Dijeta sa lubenicom će očistiti vaš organizam
+	 Ulazak Venere u vaš znak, krajem
+	 Sa zadovoljstvom sam pročitao vaš komentar.
+	 - I vaše telo i vaš um
+	 Ovo je vezano za vaš emotivni status
+	 On obezbeđuje vaš sistem, identitet kao
+	 Pohvale za vas blog i trud da
+	 Prosirite vas sistem bilo kada sa bilo
+	 Već duže vreme pratim vaš forum i
+	 Ako ste u prilici, uključite vaš
+	 Milane, ne razumem vaš revolt na
+	 Ovde Edi, vaš lični kompjuter.
+	 - Prijatelji koji su mi dali vas
+	 Vi vaš zahtev ostvarujete kao štetu,
+	 Zamislite vaš vebsajt kao auto.
+	 Možete da dobijete Ambiently bookmarklet za vaš
+	 Način ishrane i geni predodređuju vaš život
+	 Dekorišite vaš dom, dajte lični pečat
+	 Na taj način c ete osvežiti vaš
+	 @Zlata Radivojevic procitao sam vas komentar,
+{'lemma': 'vaš', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Dragi odrasli vaše druženje s decom dragoceno
+	 Ovim putem zahtevamo vaše izvinjenje na istom
+	 Potrebno je da fizijatar pogleda vaše držanje
+	 Popijte Nobel vodu za Vaše zdravlje i
+	 Vizualizujte njeno lice i oči u vašem
+	 Čitajući vaše dopisivanje sa Posmatračem, došao
+	 Morate hraniti vaše telo proteinom da bi
+	 U prijavi je neophodno da navedete vaše
+	 Kad sve obavite vezano za Vaše lice
+	 Administrator je odma uklonio vaše prezime i
+	 Došlo mi je do ruku Vaše pismo
+	 Kupovinom u DESK WEB Shopu štedite vaše
+	 Da li vaše iskustvo u radu sa
+	 Ukoliko želite da program prati vaše kretanje
+	 Da zadobijemo vaše poverenje.
+	 Sigurna budućnost za Vaše dete
+	 Rado bih čuo i Vaše mišljenje o
+	 Konkretan odgovor na Vaše pitanje" Ako
+	 Ja branim vaše pravo na slobodu,
+	 DALEKO NAJBOLJI sokić za Vaše dete je
+{'lemma': 'vaš', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 Ja sam lekar koji je lečio vašu
+	 Ukoliko se odlucite da dalje gradite vasu
+	 Kampanja ima sledec i značaj za vašu
+	 Boja za Vašu smeđu kosu
+	 SIMO: Razumim Vašu srdžbu, ali
+	 Dobro evo i Vašu analizu prihvatam sa
+	 Prema tome, ne sporimo vašu nadležnost
+	 Potrošači moraju osetiti vašu fizičku prisutnost preko
+	 Takođe, Vašu prinovu možemo snimiti na
+	 5 Prateci Vasu aktivnost i sveprisutnost gde
+	 Vidite li tu i vašu stranku?
+	 Nosite odeću koja vizuelno stanjuje vašu figuru
+	 Možemo li mi imati vašu suglasnost,
+	 Pozdravljam Vašu borbu sa vetrenjačama.
+	 Mi ćemo braniti vašu zemlju, bez
+	 Yahoo: Indeksiranje se svodi na vasu
+	 Uz Vašu dobru volju, tim City
+	 Zabavno je čitati Vašu upornost
+	 Na Vašu žalost, NIKO do sada
+	 Dvije žalosti koje su posjetile Vašu dušu
+{'lemma': 'vaš', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Dan Kada Će Se Vaš Život Promeniti
+	 Ukoliko taj nivo aktivnosti ne obezbedite vaš
+	 Onaj vaš rad u kome se strasno
+	 Pogledao sam tekst i vaš komentar da
+	 Vaš libido je jak, ali ga
+	 Kako bi omogućili da vaš doprinos bude
+	 Veliku grešku je napravio vaš menadžer jer
+	 KOji je vas omiljeni deo The Elder
+	 Izgleda da je vas sin od vas
+	 Tu[...] Vaš komentar
+	 Ako je vaš studio mala prostorija onda
+	 Čeka vas vaš prvi posao
+	 Vi i vaš partner možete misliti kako
+	 Ukoliko Vam je važan Vaš horoskopski znak
+	 Ukoliko zaposlenil ili mušterija ne kupuju vaš
+	 A ako niste sigurni da će vaš
+	 Fašisti-narkomani, kao i vaš uzor Herman
+	 VAGA Vaš poslovno-finansijski uspeh proizilazi iz dobro
+	 vaš mail i/ ili fb profil
+	 Kakav je Vaš stav po pitanju ekskurzija
+{'lemma': 'vaš', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Da bi utvrdili da vaše dete ima
+	 Vaše lice će biti zahvalno
+	 Vaše telo svoriće oblik slova X,
+	 Počitajemo Vaše pismo od 24. januara pr
+	 Vaše telo vam konstantno govori stvari.
+	 Dakle, Vaše izdržavanje je zakonska obaveza
+	 Nije Vaše sredstvo, pa ne brinete
+	 Kako izgledaju odluke, vaše poreklo i
+	 Kod Vas neće, jer Vaše selo
+	 Kasnije tokom dana, vaše telo se
+	 Vaše pitanje je šesto, od pocetka
+	 Vaše dete koje je tek prohodalo jede
+	 Drugi momenat je vaše navođenje nekih hrvatskih
+	 Jednostavno upišite vaše ime ili brend u
+	 Kada vaše prisustvo na Zemlji unese svetlost
+	 Završite vaše istraživanje što je ranije moguće
+	 Vaše je da odaberete da li će
+	 Pa bih htela da ćujem Vaše mišljenje
+	 Vaše radno vreme prilagođeno je uslovima rada
+	 Naravno da nije u redu da vaše
+{'lemma': 'vaš', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+
+	 Šta je vaša generacija? Moja generacija
+	 Inače, Vasa je i dalje tamo
+	 Da bi vaša kosa mirisala dobro,
+	 Možda vaša stranka nije, ali DOS
+	 Vaša majka ima veliko srce
+	 Ukoliko Vaša mašina nije dovoljno jaka da
+	 Da li se Vaša stranka uplašila naglog
+	 Bez razmišljanja reći da će ih vaša
+	 Šta nudi vaša stranka Srbima na Kosmetu
+	 Može se dogoditi da vas vaša partnerka
+	 Vaša stepeništa, enterijeri i mameštaj po
+	 Ni vaša ga presuda ne može zaustaviti
+	 Nek Vaša kuća bude sigurna.
+	 Ako nemate sreće, vaša će partnerka
+	 Ukoliko je vaša delatnost usmerena na proizvodnju
+	 Možda ćete brinuti da li je vaša
+	 Vaša veština posebno dolazi do izražaja u
+	 Dragi roditelji, vaša deca su samo
+	 Ako vaša platforma nije navedena među priloženim
+	 Inače, vaša kosa ima jedinstven miris
+{'lemma': 'njihov', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Prvenstveno moramo sprečiti njihov kontranapad, koji
+	 U njihov društveno-politički život umešala se naročito
+	 Da prihvatimo njihov odnos države prema građanima
+	 Sada idemo na njihov teren.
+	 Uz" gomilu" pohvala na njihov
+	 Helena se našalila na njihov račun:
+	 Na njihov ukupan i plodan rad,
+	 Njihov postupak trebalo bi da bude završen
+	 Agencija ioi. ne odgovara za njihov
+	 Na njihov zahtev takva pozivnica biće apsolutni
+	 Zašto Srbija ne može da sledi njihov
+	 Komisija je prilikom odabira korisnika bodovala njihov
+	 Jer su rimski crepovi i njihov način
+	 Zašto bi sada država dodatno podsticala njihov
+	 Sav njihov život, počev od ustajanja
+	 Ako učinite svoje podređene odgovornima za njihov
+	 Ali kada pogledate najnoviji plakat za njihov
+	 Hrvate i Srbe njihov opis prikazuje kao
+	 Koji obitavaju na đubrištu, a njihov
+	 Oni su mi dali njihov broj telefona
+{'lemma': 'njihov', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Otud njihovo osećanje i shvatanje važnosti problema
+	 Sve je ovo bilo njihovo maslo,
+	 Sta vise trude se da okruzenje njihovo
+	 Postoji više načina za njihovo obezbeđivanje.
+	 Osnovni razlog za njihovo osnivanje jeste da
+	 Koliko će još kasniti njihovo donošenje?
+	 Za njihovo ostvarevenje potreban je ogroman novac
+	 Pobornici koji podržavaju njihovo gajenje ističu da
+	 To je bio povod za njihovo gostovanje
+	 U njihovo vrijeme načiniće srpska crkva veliki
+	 Naučnici su zatim proverili njihovo zdravlje i
+	 Na njihovo insistiranje da skupu prisustvuje predsednica
+	 No Simo im na njihovo iznenađenje ne
+	 Njihovo znanje i vranjski muzički merak sada
+	 Na njihovo zlo je uzvratila dobrotom,
+	 Kao pravni osnov za njihovo donošenje rukovodstvo
+	 Nemačke štediše i njihovo ponašanje ispitani su
+	 Umesto da štedim i ulažem u njihovo
+	 Oni koji su za njihovo gajenje ističu
+	 Ali, prvo morate osvojiti njihovo srce
+{'lemma': 'njihov', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	 - Verujemo u njihovu samostalnost i kao
+	 Dobili su jer je SNS koristila njihovu
+	 Njihovu grupnu izložbu pod nazivom" Exit
+	 URS očekuje da će njihovu inicijativu za
+	 Koristila sam njihovu peglu evo 5 godina.Ne
+	 Tada možemo opravdati njihovu nešto višu cenu
+	 Kao što je i belodanom učinio njihovu
+	 Od toliko pjesama baš sam izabrao njihovu
+	 Njihovu primenu mogli smo videti kako na
+	 Ni država ne veruje u njihovu neophodnost
+	 Izbor ličnosti vezan je za njihovu specifičnost
+	 Videći njihovu drskost i bezočnost, Nikodim
+	 Mislim pogledajte njihovu galeriju, na jednoj
+	 Povećanje tražnje za tradicionalnim proizvodima podrazumeva njihovu
+	 Mogu da ih kritikujem za njihovu kadrovsku
+	 Tako će neupućenost odbornika i njihovu želju
+	 Na njihovu.
+	 U svemu sam imala njihovu podšku.
+	 Pre svega nisam odobravao njihovu citatomaniju i
+	 Njihovu krucijalnu ulogu i mesto u procesu
+{'lemma': 'njihov', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	 Njihov plan se značajno razlikuje od plana
+	 Edvards je njihov najbolji strelac.
+	 Njihov veći deo se ne može sresti
+	 Bio je ovo njihov šesti kontrolni meč
+	 Njihov izgled je sličan vertikalno postavljenim solarnim
+	 Knjiga otkriva razloge zbog kojih se njihov
+	 Da njihov primer treba da slede i
+	 Njihov stav sažet je u izjavi koju
+	 Svaki njihov proizvod je zasticen patentom,
+	 Mnoge stvari su danas zloupotrebljene te njihov
+	 Njihov odnos prema detaljima može biti iritantan
+	 Da li se njihov sistem vrednosti uklapa
+	 Ovim aktom neće biti ugrožen njihov rad
+	 Bar neki njihov deo Stare ljubavi su
+	 Na taj način prati se i njihov
+	 NVIDIA je takođe najavila da će njihov
+	 Njihov kapacitet je negde do dvadeset kilograma
+	 Najavljuju osvajanje medalje, a njihov selektor
+	 Njihov zadatak je da održavaju opremu i
+	 Rad pojedinih organa, njihov način organizovanja
+{'lemma': 'njihov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	 Pomoglo nam je njihovo iskustvo i veliko
+	 Njihovo dešavanje u novinama ne znači ništa
+	 Njihovo prikupljanje omogućilo bi da se pruži
+	 Njihovo ponašanje je na neki način zanimljivo
+	 Viđamo ih sve vreme, ali njihovo
+	 Dačić njihovo nepojavljivanje u Beogradu smatra"
+	 Njihovo nasilje je postalo skoro legitimno,
+	 Celokupna obuka upravo se odnosi na njihovo
+	 Po mnogima ovo je njihovo do sada
+	 Ovi efekti su minijaturni i njihovo merenje
+	 Oslobađanje poljoprivrednika određenih finansijskih obaveza ili njihovo
+	 U Tanjugu su ponosni što je njihovo
+	 Preuzimanje stranih reči i njihovo uključivanje u
+	 Odnosno, njihovo je pravo da registruju
+	 Njihovo poverenje i poštovanje morate da zaslužite
+	 To je njihovo pravo.
+	 Prava je sreća ukoliko je njihovo postojanje
+	 Njihovo putovanje počinje na brodu" Silver
+	 Spisak ovih alatki i njihovo poredjenje pogledajte
+	 Njihovo razumevanje nije opterećeno tehnološkim ili značenjskim
+{'lemma': 'njihov', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	 - Izbori unutar DS-a su njihova stvar
+	 Njihova drugarica Nina Petrović( 21)
+	 Njihova naplata zavisi od prijavljivanja tih dohodaka
+	 Građani su i dalje revnosniji i njihova
+	 Osnovni problem ovdašnjih desničara je što njihova
+	 Koliko nas je samo oduševila njihova radost
+	 Prozirni dijamanti su najčešći i njihova boja
+	 Njihova veza trajala je četiri meseca.
+	 Njihova reputacija, poslovnost i dugogodišnje iskustvo
+	 Tolika je bila njihova strast prema tom
+	 Njihova je svrha omekšavanje i opuštanje mekih
+	 Međutim, ovde je uočljivo da njihova
+	 Kao posledica smanjene tražnje pada njihova cena
+	 Kako se njihova zemlja približavala članstvu u
+	 Njihova čuvena" besa" čvrsta je
+	 Svi vole ilustracije i njihova popularnost se
+	 Sva njihova nada beše Nebeska Carica Presveta
+	 Njihova pseudoosećanja zapravo su iskrivljeno ogledalo tuđih
+	 Ako se pogleda njihova stručna sprema ili
+	 Iz tog razloga njihova kultura se toliko

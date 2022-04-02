@@ -1,0 +1,102 @@
+{'lemma': 'njen', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'njen', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+	Njeno mišljenje deli i Ivan Mikalački
+{'lemma': 'njen', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+{'lemma': 'njen', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'njen', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	" Provokacija" je njeno drugo
+{'lemma': 'njen', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	Sonja Biserko i njena NVO misle
+	Njena kotlina je intezivnije naseljena tokom
+{'lemma': 'moj', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'moj', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'moj', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+{'lemma': 'moj', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	Sumnjam, moj um je i
+	moj utisak je da je ovo
+	Moj stav je da mi je
+	Znaci moj licni zakljucak je da
+	Takve okolnosti učvršćuju moj stav da
+	Moj prijatelj uvek kaže,«
+	Ah, moj Jovica prekide se
+{'lemma': 'moj', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	Moje zapazanje..
+	Moje iskustvo iz proteklih deset godina
+	Nadam se da se moje putovanje
+{'lemma': 'moj', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	Moja dijagnoza je alergijska astma,
+	Moja beba krivi glavu na jednu
+	Dj-Djurdjevdan; moja slava; i
+	Moja prica se ogranicava na nV
+{'lemma': 'tvoj', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'tvoj', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'tvoj', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+{'lemma': 'tvoj', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'tvoj', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	Tvoje preduzeće proizvodi vrednost, ima
+{'lemma': 'tvoj', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+{'lemma': 'njegov', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'njegov', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'njegov', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	Za njegovu smrt su direktno odgovorni
+{'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	Međutim, njegov znčaj za Basen
+	Ovo je njegov poslednji roman.
+	Spomen se njegov praznuje 27 oktobra
+	Njegov rad se najbolje primeti pri
+	Spomen se njegov praznuje 14 decembra
+	Njegov spomen naročito se poštuje u
+	Takođe je tvrdio da je njegov
+{'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	Logično, usledilo je njegovo pitanje
+	Da bi mu njegovo sopstveno duboko
+{'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	Njegova molekularna formula je dizajnirana imajući
+	Uspešni preduzetnik i njegova supruga,
+	Ima i jos jedna njegova umotvorina
+	To znači da je njegova dužnost
+	Njegova opera" Otmica iz saraja
+	Njegova genijalnost bila je ispred vremena
+	Raduje me njegova podrška Dejtonskom mirovnom
+{'lemma': 'naš', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'naš', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'naš', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	Za ovaj momenat i našu mladu
+{'lemma': 'naš', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	No, što naš narod lepo
+	Naš cilj jeste lepši Vračar i
+	" Naš trenutan prosečan prinos repe
+	I naš pokušaj da razgovaramo sa
+{'lemma': 'naš', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	Nase iskustvo govori da takvi posrednici
+{'lemma': 'naš', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	- Prva naša popularna pjesma je
+	Naša vera je čista i neporočna
+	Domaćin ovog seminara bila je naša
+	U stvari, naša specifična klastera
+	Naša centrala je zapravo i portirnica
+{'lemma': 'vaš', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+	Saglasnost se izdaje na vaš pisani
+	Na slikama vidite difuzor za vas
+{'lemma': 'vaš', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'vaš', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	- Vašu izjavu, da na
+{'lemma': 'vaš', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	To je vaš problem koji ne
+	Koji je vas problem?
+	OK[...] Vaš komentar
+	BLOFELD: Zašto vaš kolega govori
+{'lemma': 'vaš', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+	Ako primetite da vaše dete ima
+{'lemma': 'vaš', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+{'lemma': 'njihov', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}
+{'lemma': 'njihov', 'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'njihov', 'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing'}
+	Sledeći njihovu logiku, možemo ih
+{'lemma': 'njihov', 'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}
+	Svaki njihov napad na nas nama
+	Njihov navodni cilj nije kažnjavanje BitTorrent
+	Njihov repistolarni roman mogla bi da
+{'lemma': 'njihov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
+{'lemma': 'njihov', 'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}
+	U čemu je njihova prednost?
