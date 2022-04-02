@@ -9,46 +9,46 @@ In practice, some usages are much less common than others and some inappropriate
 {'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
 
 Serbian:  
-To je njegovo Ustavom zagarantovano pravo.  
-Ipak, njegovo izručenje će biti uslov  
-Njegovo Preosveštenstvo Mitropolit Konstantin se trenutno nalazi  
-Bez njegovo znanje nema godižbina trošenje.  
-Roditelj može da smatra da je njegovo  
-I zato njegovo ponašanje smatram nekorektnim.  
-Njegovo preduzeće najveći deo prometa ostvaruje preko  
-Jos kada bi se na izborima njegovo  
-Na pitanje kakvo je bilo njegovo reagovanje  
-Brižno odabiranje kamena i njegovo samo delimično  
-Njegovo Preosveštenstvo Episkop zvorničko-tuzlanski G.  
-Njegovo delovanje na državnim funkcijama je,  
-Njegovo Preosveštenstvo Episkop hvostanski G.  
-Njegovo ime nalazi se na spisku među  
-Uz njegovo zdušno zalaganje, te nekoliko  
-Njegovo Preosveštenstvo Episkop hvostanski Atanasije u nadahnutoj  
-Irineja, Njegovo Preosveštenstvo Episkop šabački g.  
-Pri pogledu na publiku njegovo divljenje je  
-Njegovo igrano ostvarenje" Gegen die Wand  
-Nema sumnje da njegovo sitno seme i  
+1. To je njegovo Ustavom zagarantovano pravo.  
+2. Ipak, njegovo izručenje će biti uslov  
+3. Njegovo Preosveštenstvo Mitropolit Konstantin se trenutno nalazi  
+4. Bez njegovo znanje nema godižbina trošenje.  
+5. Roditelj može da smatra da je njegovo  
+6. I zato njegovo ponašanje smatram nekorektnim.  
+7. Njegovo preduzeće najveći deo prometa ostvaruje preko  
+8. Jos kada bi se na izborima njegovo  
+9. Na pitanje kakvo je bilo njegovo reagovanje  
+10. Brižno odabiranje kamena i njegovo samo delimično  
+11. Njegovo Preosveštenstvo Episkop zvorničko-tuzlanski G.  
+12. Njegovo delovanje na državnim funkcijama je,  
+13. Njegovo Preosveštenstvo Episkop hvostanski G.  
+14. Njegovo ime nalazi se na spisku među  
+15. Uz njegovo zdušno zalaganje, te nekoliko  
+16. Njegovo Preosveštenstvo Episkop hvostanski Atanasije u nadahnutoj  
+17. Irineja, Njegovo Preosveštenstvo Episkop šabački g.  
+18. Pri pogledu na publiku njegovo divljenje je  
+19. Njegovo igrano ostvarenje" Gegen die Wand  
+20. Nema sumnje da njegovo sitno seme i  
 
 
 English auto-translation:  
-That is his right guaranteed by the Constitution.  
-However, his extradition will be a condition  
-His Eminence Metropolitan Constantine is currently present  
-Without his knowledge there is no anniversary of spending.  
-The parent may consider it his  
-And that is why I consider his behavior incorrect.  
-His company generates most of its turnover through  
-Even if it were his election  
-When asked what his reaction was  
-Careful selection of stone and its only partial  
-His Eminence Bishop of Zvornik-Tuzla G.  
-His work in state functions is,  
-His Eminence Bishop Hvostanski G.  
-His name is on the list among  
-With his heartfelt commitment, and a few  
-His Eminence Bishop Atanasije of Hvostan was inspired  
-Irinej, His Eminence Bishop of Sabac Mr.  
-Looking at the audience is his admiration  
-His feature film “Gegen die Wand  
-There is no doubt that his tiny seeds and  
+1. That is his right guaranteed by the Constitution.  
+2. However, his extradition will be a condition  
+3. His Eminence Metropolitan Constantine is currently present  
+4. Without his knowledge there is no anniversary of spending.  
+5. The parent may consider it his  
+6. And that is why I consider his behavior incorrect.  
+7. His company generates most of its turnover through  
+8. Even if it were his election  
+9. When asked what his reaction was  
+10. Careful selection of stone and its only partial  
+11. His Eminence Bishop of Zvornik-Tuzla G.  
+12. His work in state functions is,  
+13. His Eminence Bishop Hvostanski G.  
+14. His name is on the list among  
+15. With his heartfelt commitment, and a few  
+16. His Eminence Bishop Atanasije of Hvostan was inspired  
+17. Irinej, His Eminence Bishop of Sabac Mr.  
+18. Looking at the audience is his admiration  
+19. His feature film “Gegen die Wand  
+20. There is no doubt that his tiny seeds and  
