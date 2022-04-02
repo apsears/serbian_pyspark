@@ -8,7 +8,7 @@ In practice, some usages are much less common than others and some inappropriate
 
 {'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
 
-Serbian:
+Serbian:  
 To je njegovo Ustavom zagarantovano pravo.  
 Ipak, njegovo izručenje će biti uslov  
 Njegovo Preosveštenstvo Mitropolit Konstantin se trenutno nalazi  
@@ -30,7 +30,8 @@ Pri pogledu na publiku njegovo divljenje je
 Njegovo igrano ostvarenje" Gegen die Wand  
 Nema sumnje da njegovo sitno seme i  
 
-English auto-translation:
+
+English auto-translation:  
 That is his right guaranteed by the Constitution.  
 However, his extradition will be a condition  
 His Eminence Metropolitan Constantine is currently present  
