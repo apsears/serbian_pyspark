@@ -1,10 +1,10 @@
 # serbian_pyspark
 
-The Serbian Web Corpus: [srWaC](http://nlp.ffzg.hr/resources/corpora/srwac/) contains nearly a billion tokens scraped from .rs domains. Each word is lemmatized and characterized with linguistic properties to save computation time. 
+The Serbian Web Corpus: [srWaC](http://nlp.ffzg.hr/resources/corpora/srwac/) contains nearly a billion tokens in the Serbo-Croatian language scraped from .rs domains. Each word is lemmatized and characterized with linguistic properties to save computation time. 
 
 In this project we lightly parse these xml records to mine for sentences which contain possessive pronouns, which vary in declension by the case, gender, and number of the noun involved. Spark speeds up this process by naturally involving all cores of a local computer and enabling even faster distributed processing in a cluster.
 
-In practice, some usages are much less common than others and some inappropriate sentences are removed. Results are shown below for njegov- in which the owned object is neuter gender singular, in the nominative case.
+In practice, some usages are much less common than others and some inappropriate sentences are removed. Results are shown below for the third-person possessive pronoun njegov- for the nominative case, and in which the owned object is neuter gender singular.
 
 {'lemma': 'njegov', 'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing'}
 
