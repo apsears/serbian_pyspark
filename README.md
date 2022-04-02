@@ -1,4 +1,5 @@
 # serbian_pyspark
+A demonstration of pyspark on a corpus of Serbian language scraped from the web.
 
 The Serbian Web Corpus: [srWaC](http://nlp.ffzg.hr/resources/corpora/srwac/) contains nearly a billion tokens in the Serbo-Croatian language scraped from .rs domains. Each word is lemmatized and characterized with linguistic properties to save computation time. 
 
